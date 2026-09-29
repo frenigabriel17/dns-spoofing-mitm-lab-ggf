@@ -1,0 +1,29 @@
+apache/index.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cybersecurity Laboratory</title>
+</head>
+
+<body>
+
+    <h1>DNS Spoofing Laboratory</h1>
+
+    <h2>MITM Demonstration</h2>
+
+    <p>
+        we successfully redirected your traffic
+        inside my controlled cybersecurity laboratory.
+    </p>
+
+    <p>
+        DNS  redirected to
+        my server :).
+    </p>
+
+</body>
+
+</html>
